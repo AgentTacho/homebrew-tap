@@ -1,6 +1,6 @@
 cask "agenttacho" do
-  version "0.6.2"
-  sha256 "33709b958875e5bc4f87217c19dbba29f5fcd2efbb3f867d795a9d2ec527cee1"
+  version "0.7.0"
+  sha256 "895f226dc5fd661d70fbb52e2ab373189fe1c8f7b52f58ca60e368720b3b349c"
 
   url "https://github.com/AgentTacho/agenttacho/releases/download/v#{version}/AgentTacho-#{version}.dmg"
   name "AgentTacho"
